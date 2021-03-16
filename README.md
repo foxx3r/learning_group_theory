@@ -59,6 +59,8 @@ All my learning about abstract algebra, ring theory, field theory, lattice theor
 
 **matrix group** - a group of matrices over a field with scalar multiplication
 
+**ideal** - a subset that still is closed under itself. e.g: set of even numbers, since all addition, subtraction and multiplication of even numbers results in another even number
+
 # Concepts - field theory
 **field** - a ring with a multiplication inverse (division)
 
