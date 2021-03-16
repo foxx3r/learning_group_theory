@@ -41,7 +41,11 @@ All my learning about abstract algebra, ring theory, field theory, lattice theor
 
 **order of group** - the number of elements that is contained within the group
 
-**symmetric/permutation group** - a group Sn where n is the order of the group and can be rearranged in `n!` ways, and has a function that allows you to choose an element by its position
+**symmetric/permutation group** - a group `Sn` where `n` is the order of the group and can be rearranged in `n!` ways, and has a function that allows you to choose an element by its position
+
+**dihedral group** - a permutation group of regular polygons where the notation `D^n` is the number of sides and `D^2n` is the number of symmetries and is cyclic under rotations and flips
+
+
 
 # Concepts - ring theory
 
