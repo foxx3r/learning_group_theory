@@ -45,6 +45,8 @@ All my learning about abstract algebra, ring theory, field theory, lattice theor
 
 **dihedral group** - a permutation group of regular polygons where the notation `D^n` is the number of sides and `D^2n` is the number of symmetries and is cyclic under rotations and flips
 
+**simple group** - a group with only two subgroups -- itself and its identity
+
 # Concepts - ring theory
 
 **ring** - an abelian group with multiplication
