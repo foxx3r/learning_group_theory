@@ -51,3 +51,6 @@ All my learning about abstract algebra, ring theory, field theory, lattice theor
 
 # Concepts - field theory
 **field** - a ring with a multiplication inverse (division)
+
+# Theorems
+**Lagrange's theorem** - says that the possibilities of subgroups is the number of all the divisors of the number of elements of the main group
