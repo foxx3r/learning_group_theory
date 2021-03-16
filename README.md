@@ -45,8 +45,6 @@ All my learning about abstract algebra, ring theory, field theory, lattice theor
 
 **dihedral group** - a permutation group of regular polygons where the notation `D^n` is the number of sides and `D^2n` is the number of symmetries and is cyclic under rotations and flips
 
-
-
 # Concepts - ring theory
 
 **ring** - an abelian group with multiplication
@@ -56,6 +54,8 @@ All my learning about abstract algebra, ring theory, field theory, lattice theor
 **unit ring** - a ring with some 1-like behaviour for multiplication
 
 **integral domain** - a unit ring with no zero divisors
+
+**matrix group** - a group of matrices over a field with scalar multiplication
 
 # Concepts - field theory
 **field** - a ring with a multiplication inverse (division)
