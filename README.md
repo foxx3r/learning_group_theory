@@ -39,6 +39,8 @@ All my learning about abstract algebra, ring theory, field theory, lattice theor
 
 **order of element** - is denoted by |x| = n, where x^n = 0 (identity)
 
+**order of group** - the number of elements that is contained within the group
+
 # Concepts - ring theory
 
 **ring** - an abelian group with multiplication
