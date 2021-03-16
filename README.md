@@ -37,9 +37,11 @@ All my learning about abstract algebra, ring theory, field theory, lattice theor
 
 **kernel** - a function between homomorphisms that collects all the elements in the 1st set that results in identity on the 2nd set
 
-**order of element** - is denoted by |x| = n, where x^n = 0 (identity)
+**order of element** - is denoted by `|x| = n`, where `x^n = 0`identity)
 
 **order of group** - the number of elements that is contained within the group
+
+**symmetric/permutation group** - a group Sn where n is the order of the group and can be rearranged in `n!` ways, and has a function that allows you to choose an element by its position
 
 # Concepts - ring theory
 
