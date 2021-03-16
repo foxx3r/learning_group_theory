@@ -1,5 +1,5 @@
 # learning_group_theory
-All my learning about abstract algebra, ring theory, field theory, lattice theory, module theory, category theory and Galois/K theory.
+All my learning about abstract algebra, ring theory, field theory, lattice theory, module theory, category theory, Galois theory, homology, homotopy, univalent foundations, HoTT and K theory.
 
 # Concepts - group theory
 
