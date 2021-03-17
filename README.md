@@ -13,7 +13,7 @@ All my learning about abstract algebra, ring theory, field theory, lattice theor
 
 **abelian group** - a commutative group
 
-**coset** - a modification of a group/subgroup
+**coset** - a modification of a group/subgroup (not always forms a group)
 
 **left-coset** - a coset with a left-side operation for non-abelian groups
 
@@ -25,7 +25,7 @@ All my learning about abstract algebra, ring theory, field theory, lattice theor
 
 **nontrivial subgroup** - the same as subgroups, except itself and its identity
 
-**quotient/factor group** - the set/group of all cosets
+**quotient/factor group** - the set of all cosets
 
 **congruence class** - a quotient group which you add two elements of distinct sets and gets another set
 
