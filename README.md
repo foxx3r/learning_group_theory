@@ -71,3 +71,10 @@ All my learning about abstract algebra, ring theory, field theory, lattice theor
 
 # Theorems
 **Lagrange's theorem** - says that the possibilities of subgroups is the number of all the divisors of the number of elements of the main group
+
+# Interesting things
+[cyclic notation](https://dlmf.nist.gov/26.13)
+
+[symmetric groups of triangles (AKA dihedral group of order 6](https://en.wikipedia.org/wiki/Dihedral_group_of_order_6)
+
+[Cayley table](https://en.wikipedia.org/wiki/Cayley_table)
