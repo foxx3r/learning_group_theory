@@ -19,9 +19,9 @@ All my learning about abstract algebra, ring theory, field theory, lattice theor
 
 **right-coset** - a coset with a right-side operation for non-abelian groups
 
-**normal subgroup** - a subgroup such that all left cosets are identicals to the same right coset
+**normal group** - a subgroup such that all left cosets are identicals to the same right coset
 
-**trivial subgroup** - the only 2 immutable subgroups of a group -- itself and its identity
+**trivial group** - the only 2 immutable subgroups of a group -- itself and its identity
 
 **nontrivial subgroup** - the same as subgroups, except itself and its identity
 
@@ -33,7 +33,7 @@ All my learning about abstract algebra, ring theory, field theory, lattice theor
 
 **homomorphism** - convert a group into another group
 
-**isomorphism** - a homomorphism that is bijective
+**isomorphism** - a bijective homomorphism
 
 **kernel** - a function between homomorphisms that collects all the elements in the 1st set that results in identity on the 2nd set
 
