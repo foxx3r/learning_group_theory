@@ -66,5 +66,8 @@ All my learning about abstract algebra, ring theory, field theory, lattice theor
 # Concepts - field theory
 **field** - a ring with a multiplication inverse (division)
 
+# Concepts - module theory
+**module** - a generalized vector space, that has a ring of scalars (and therefore it no longer reqyures multiplication inverse)
+
 # Theorems
 **Lagrange's theorem** - says that the possibilities of subgroups is the number of all the divisors of the number of elements of the main group
